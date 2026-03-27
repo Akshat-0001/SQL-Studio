@@ -2,7 +2,7 @@
 
 ![Walkthrough Video](./frontend/public/walkthrough%20video.gif)
 
-this is my submission for the full stack assignment. it's a simple web app that lets you run real sql queries against sample databases right in the browser. 
+it's a simple web app that lets you run real sql queries against sample databases right in the browser. 
 
 I built it using react for the frontend and express/postgres/mongo for the backend.
 
